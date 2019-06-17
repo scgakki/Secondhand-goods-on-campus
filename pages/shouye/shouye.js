@@ -71,7 +71,7 @@ Page({
     // 以下是页面加载时，加载定位的函数
     var that = this;
     var BMap = new bmap.BMapWX({
-      ak: 'zuwiVmIUj822mmW6psamM888QLz8Q5wF'
+      ak: 'a6GccvoztGoGeihnutK49zGcxWPeFHUT'
     });
     var fail = function (data) {
       var place = 'search.placeData.title'

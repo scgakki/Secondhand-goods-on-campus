@@ -11,10 +11,12 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.2.1",
-	"appid": "wxb76b1312539700f0",
-	"projectname": "%E5%94%A4%E5%AE%9D%E4%B8%BB%E9%A1%B9%E7%9B%AEGitHub",
+	"libVersion": "2.3.0",
+	"appid": "wx14be2b710d003870",
+	"projectname": "secondhand",
 	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
@@ -24,13 +26,24 @@
 			"current": -1,
 			"list": []
 		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
 		"game": {
 			"currentL": -1,
 			"list": []
 		},
 		"miniprogram": {
-			"current": -1,
-			"list": []
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "heihei",
+					"pathName": "pages/shouye/shouye",
+					"scene": 1005
+				}
+			]
 		}
 	}
 }

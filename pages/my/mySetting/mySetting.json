@@ -3,7 +3,7 @@
   "navigationBarBackgroundColor": "#1E68C9",
   "backgroundTextStyle": "light",
   "navigationBarTitleText": "个人信息",
-  "navigationBarTextStyle": "#fff",
+  "navigationBarTextStyle": "black",
   "enablePullDownRefresh": true
     
 }
